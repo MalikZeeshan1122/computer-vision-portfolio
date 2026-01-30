@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+env/
+
+# Generated images (optional, comment out if you want to keep them)
+*.jpg
+*.png
+output/
